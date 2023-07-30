@@ -1,0 +1,11 @@
+Package: com.cann66.volumelock
+Name: VolumeLock
+Depends: mobilesubstrate
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Lock your volume with a simple gesture...
+Maintainer: Cann66
+Author: Cann66
+Section: Tweaks
+Depiction: https://cann66dev.github.io/depictions/com.cann66.volumelock/
+SileoDepiction: https://cann66dev.github.io/depictions/com.cann66.volumelock/
