@@ -1,7 +1,7 @@
 Package: com.cann66.volumelock
 Name: VolumeLock
 Depends: mobilesubstrate
-Version: 1.2
+Version: 1.0
 Architecture: iphoneos-arm
 Description: Lock your volume with a simple gesture...
 Maintainer: Cann66
