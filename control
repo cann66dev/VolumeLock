@@ -1,0 +1,9 @@
+Package: com.cann66.volumelock
+Name: VolumeLock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Lock volume changing by pressing both volume buttons down
+Maintainer: Cann66
+Author: Cann66
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
